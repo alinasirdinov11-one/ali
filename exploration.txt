@@ -1,0 +1,6 @@
+Question 1 : What is the absolute path to your directory?
+Answer :Bu hech narsaga bog'liq emas,har doim bir xil ishlidi (/) dan boshlanadi doim! 
+Question 2 : What files and directories are located in the root (/) directory?
+Answer :Uning pathi homework1 niki /home/ali/homework1/exploration.txt or ~/homework1/exploration.txt
+Question 3 :What version of the ls command are you using?
+Answer :I am using version ls 9.1 

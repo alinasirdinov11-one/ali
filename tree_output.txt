@@ -1,0 +1,9 @@
+.
+├── fiction
+│   ├── mystery
+│   └── sci_fi
+├── non_fiction
+│   └── biographies
+└── resources
+
+7 directories, 0 files
