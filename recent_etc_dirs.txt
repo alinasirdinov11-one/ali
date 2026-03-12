@@ -1,5 +1,0 @@
-/etc
-/etc/cups
-/etc/systemd/system
-/etc/systemd/system/snapd.mounts.target.wants
-/etc/systemd/system/multi-user.target.wants
